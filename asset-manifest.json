@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/BackgroundVideo/static/css/main.40ce4fa0.chunk.css",
+    "main.js": "/BackgroundVideo/static/js/main.37922ad9.chunk.js",
+    "main.js.map": "/BackgroundVideo/static/js/main.37922ad9.chunk.js.map",
+    "runtime-main.js": "/BackgroundVideo/static/js/runtime-main.9ce94d77.js",
+    "runtime-main.js.map": "/BackgroundVideo/static/js/runtime-main.9ce94d77.js.map",
+    "static/js/2.d9551213.chunk.js": "/BackgroundVideo/static/js/2.d9551213.chunk.js",
+    "static/js/2.d9551213.chunk.js.map": "/BackgroundVideo/static/js/2.d9551213.chunk.js.map",
+    "index.html": "/BackgroundVideo/index.html",
+    "precache-manifest.7dc8cd35d982dfcbb9b2d9b56bf205f3.js": "/BackgroundVideo/precache-manifest.7dc8cd35d982dfcbb9b2d9b56bf205f3.js",
+    "service-worker.js": "/BackgroundVideo/service-worker.js",
+    "static/css/main.40ce4fa0.chunk.css.map": "/BackgroundVideo/static/css/main.40ce4fa0.chunk.css.map",
+    "static/js/2.d9551213.chunk.js.LICENSE.txt": "/BackgroundVideo/static/js/2.d9551213.chunk.js.LICENSE.txt",
+    "static/media/airplane.svg": "/BackgroundVideo/static/media/airplane.1cc993a3.svg",
+    "static/media/loupe.svg": "/BackgroundVideo/static/media/loupe.ecef733a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ce94d77.js",
+    "static/js/2.d9551213.chunk.js",
+    "static/css/main.40ce4fa0.chunk.css",
+    "static/js/main.37922ad9.chunk.js"
+  ]
+}
