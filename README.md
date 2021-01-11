@@ -1,8 +1,7 @@
 ### Trip Webpage
+Página web com o intuito de estudo Front-End para web desktop.
 
 [Clique aqui para acessar a Página](https://rgnwld.github.io/BackgroundVideo/)
-
-Página web com o intuito de estudo Front-End.
 
 #### Baseado no design de [Daniel Snows](http://danielsnows.com.br/) utilizando os frameworks ReactJS e SASS.
 
